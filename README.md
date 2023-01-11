@@ -6,3 +6,6 @@ This script is used for cleaning a CSV file, it reads a CSV file specified by th
 - CSV file, specified in the path in the pd.read_csv() function
 ## Output
 - CSV file, containing cleaned columns and similarity rate column.
+
+
+![alt text](https://github.com/frknksp/BigdataSimilarityRate/blob/master/ui.png?raw=true)
